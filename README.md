@@ -1,2 +1,3 @@
 # Data-structures-and-algorithms
-Data Structures and Algorithms
+
+A collection of Data Structures and Algorithms, in different programming languages.
